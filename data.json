@@ -1,38 +1,32 @@
 [
 	{
-		"venue": "EMNLP",
-		"area": "CL",
-		"link": "http://emnlp2017.net/",
-		"deadline": "April 14, 2017 23:59 UTC-7"
-	},
-	{
 		"venue": "ACL",
 		"area": "CL",
-		"link": "http://acl2017.org",
-		"deadline": "February 6, 2017 23:59 PDT"
-	},
-	{
-		"venue": "IJCAI",
-		"area": "AI",
-		"link": "http://ijcai-17.org",
-		"deadline": "February 19, 2017 23:59 UTC+11"
-	},
-	{
-		"venue": "AAAI - abstracts",
-		"area": "AI",
-		"link": "http://www.aaai.org/Conferences/AAAI/2017",
-		"deadline": "September 9, 2016 23:59 UTC-10"
+		"link": "https://acl2018.org/",
+		"deadline": "February 22, 2018 23:59 PDT"
 	},
 	{
 		"venue": "EMNLP",
 		"area": "CL",
-		"deadline": "June 3, 2016, 23:59 GMT-12",
-		"link": "http://www.emnlp2016.net"
+		"link": "http://emnlp2018.org/",
+		"deadline": "May 22, 2018 23:59 UTC-7"
 	},
 	{
 		"venue": "ICLR",
 		"area": "AI",
-		"deadline": "October 10, 2017, 14:00 PDT",
+		"deadline": "October 10, 2018, 14:00 PDT",
 		"link": "https://iclr.cc/"
+	},
+	{
+		"venue": "ICML",
+		"area": "AI",
+		"deadline": "February 9, 2018, 16:00 PDT",
+		"link": "https://icml.cc/Conferences/2018/"
+	},
+	{
+		"venue": "NIPS",
+		"area": "AI",
+		"deadline": "May 18, 2018, 20:00 UTC",
+		"link": "https://nips.cc/Conferences/2018/"
 	}
 ]
