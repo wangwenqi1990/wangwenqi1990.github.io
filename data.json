@@ -1,0 +1,32 @@
+[
+	{
+		"venue": "EMNLP",
+		"area": "CL",
+		"link": "http://emnlp2017.net/",
+		"deadline": "April 14, 2017 23:59 UTC-7"
+	},
+	{
+		"venue": "ACL",
+		"area": "CL",
+		"link": "http://acl2017.org",
+		"deadline": "February 6, 2017 23:59 PDT"
+	},
+	{
+		"venue": "IJCAI",
+		"area": "AI",
+		"link": "http://ijcai-17.org",
+		"deadline": "February 19, 2017 23:59 UTC+11"
+	},
+	{
+		"venue": "AAAI - abstracts",
+		"area": "AI",
+		"link": "http://www.aaai.org/Conferences/AAAI/2017",
+		"deadline": "September 9, 2016 23:59 UTC-10"
+	},
+	{
+		"venue": "EMNLP",
+		"area": "CL",
+		"deadline": "June 3, 2016, 23:59 GMT-12",
+		"link": "http://www.emnlp2016.net"
+	}
+]
