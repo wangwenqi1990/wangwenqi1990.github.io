@@ -28,5 +28,11 @@
 		"area": "AI",
 		"deadline": "May 18, 2018, 20:00 UTC",
 		"link": "https://nips.cc/Conferences/2018/"
+	},
+	{
+		"venue": "AAAI",
+		"area": "AI",
+		"deadline": "September 5, 2018, 23:59:59 GMT-1000",
+		"link": "https://nips.cc/Conferences/2018/"
 	}
 ]
